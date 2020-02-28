@@ -1,0 +1,4 @@
+jieba
+editdistance
+gensim==3.8.1
+mafan
